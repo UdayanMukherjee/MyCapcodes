@@ -1,0 +1,52 @@
+*{
+	font-family: 'Courier Prime', monospace;
+}
+h3{
+	color: black;
+	
+	text-align: center;
+}
+h6{
+	color: white;
+	
+	text-align: right;
+	padding: 30px;
+	background-color: blue;
+}
+h2{
+	color: white;
+	text-align: left;
+	padding-bottom: 30px;
+	background-color: cyan;
+}
+hr{
+	border:2px solid black;
+}
+
+footer{
+	background-color: blue;
+	color:white;
+	padding: 5px;
+	text-align: center;
+}
+header{
+	text-align: right;
+	background-color: blue;
+	padding: 5px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display:inline;
+	margin: 50 px;
+}
+
+li a{
+	color:white;
+	text-decoration: none;
+}
+li a:hover{
+	color:red;
+}
+.center { margin: 0 auto; width: 400px; }
